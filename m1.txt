@@ -1,3 +1,5 @@
+D
 modification from the same line master
+modification from the same line dev
 hi from m1
 hi from dev branch
