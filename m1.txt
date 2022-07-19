@@ -1,2 +1,3 @@
+modification from the same line master
 hi from m1
 hi from dev branch
